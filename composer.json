@@ -7,5 +7,7 @@
             "email": "pookmish@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "composer/installers": "*"
+    }
 }
