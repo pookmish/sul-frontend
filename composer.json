@@ -1,0 +1,11 @@
+{
+    "name": "pookmish/frontend",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mike Decker",
+            "email": "pookmish@gmail.com"
+        }
+    ],
+    "require": {}
+}
